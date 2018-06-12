@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7_Capstone_ProductAPI", "Week7_Capstone_ProductAPI\Week7_Capstone_ProductAPI.csproj", "{1BF62229-8637-4785-B734-52587808B060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72A5EACE-9AE1-4C12-A299-EDA9E2407747}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF62229-8637-4785-B734-52587808B060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF62229-8637-4785-B734-52587808B060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF62229-8637-4785-B734-52587808B060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF62229-8637-4785-B734-52587808B060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573AFD48-51CB-4931-B2EC-7EB1342B8E2A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+namespace Week7_Capstone_ProductAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class KeyValuePairModelDescription : ModelDescription
+    {
+        public ModelDescription KeyModelDescription { get; set; }
+
+        public ModelDescription ValueModelDescription { get; set; }
+    }
+}
